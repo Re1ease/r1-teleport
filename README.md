@@ -1,5 +1,6 @@
 # r1_teleport
 
+FiveM Forum Post: 
 
 > ### Script Status
 > This script is no longer maintained or used by [Project Life](https://forum.cfx.re/t/project-life-immersive-story-based-roleplay-launching-late-january-custom-assets-mlo-filling-slots-interviews-open-fire-police-ems-burgershot-economy-based/4791660).
@@ -11,7 +12,6 @@
 > The only thing I ask is to not sell or re-upload the script claiming it to be yours.
 
 > ### Config
-> [details="Click Here"]
 > ```lua
 > PL = {}
 > 
@@ -83,7 +83,6 @@
 >     },
 > }
 > ```
-> [/details]
 
 > ### Compatability
 > *This script uses a draw-text function on default.*
@@ -99,6 +98,5 @@
 >   * 0.02ms
 >     * 0.05 - 0.06ms when using the draw text function
 
-> ### Showcase & Download
+> ### Showcase
 > [Showcase Video](https://streamable.com/meobub)
-> [Download (Github)]()
