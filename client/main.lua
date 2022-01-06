@@ -69,7 +69,7 @@ Citizen.CreateThread(function()
                         if not PL.TeleportInVehicle then
                             vehCheck = true
                         else
-                            vehCheck = true
+                            vehCheck = false
                         end
                     else
                         vehCheck = false
