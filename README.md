@@ -1,10 +1,5 @@
 # r1_teleport
 
-FiveM Forum Post: 
-
-> ### Script Status
-> This script is no longer maintained or used by [Project Life](https://forum.cfx.re/t/project-life-immersive-story-based-roleplay-launching-late-january-custom-assets-mlo-filling-slots-interviews-open-fire-police-ems-burgershot-economy-based/4791660).
-
 > ### Introduction
 > This is an optimized teleport-script that is easy-to-use with many features. Take a look in the config for more information. 
 > 
